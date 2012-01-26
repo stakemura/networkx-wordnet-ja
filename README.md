@@ -27,7 +27,7 @@ How to use
 
 Sample
 ------
-	python wordnet-ja.py --word=network -lang==eng
+	python wordnet-ja.py --word=network --lang=eng
 
 ![screenshot] (https://github.com/stakemura/networkx-wordnet-ja/raw/master/sample.png)
 
