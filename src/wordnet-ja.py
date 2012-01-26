@@ -74,7 +74,7 @@ def main():
       default="./wnjpn.db",
       help="Japanese WordNet DB path (default=./wnjpn.db)", metavar="FILE")
     parser.add_option("-o", "--output", dest="output",
-      default="./wnjpn.graphml",
+      default="./wnjpn.png",
       help="output path (default==./wnjpn.png)", metavar="FILE")    
     parser.add_option("-d", "--dpi", dest="dpi",
       default=100,
