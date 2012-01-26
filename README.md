@@ -5,6 +5,11 @@ WordNet-ja graph generator using NetworkX
 Support formats : Image file(.png), GraphViz(.dot), GML(.gml), GraphML(.graphml)  
 (Automatically detect the output file extension)
 
+Requirement
+-----------
+Python 2.5 or later  
+NetworkX 1.6 or later
+[Japanese WordNet](http://nlpwww.nict.go.jp/wn-ja/)  Sqlite database
 
 How to use
 ----------
