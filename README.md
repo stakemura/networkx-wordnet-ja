@@ -1,10 +1,11 @@
 networkx-wordnet-ja
 ===================
 WordNet-ja graph generator using NetworkX
+Support formats : image file(.png), GraphViz(.dot), GML, GraphML
 
 How to use
 ----------
-Usage: wordnet-ja.py [options]
+	Usage: wordnet-ja.py [options]
 
 	Options:
 	  -h, --help            show this help message and exit
@@ -23,7 +24,8 @@ Usage: wordnet-ja.py [options]
 
 Sample
 ------
-wordnet-ja.py -w network -l eng
+	wordnet-ja.py -w network -l eng
+
 (https://github.com/stakemura/networkx-wordnet-ja/blob/master/sample.png)
 
 Licene
